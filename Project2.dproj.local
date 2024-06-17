@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/06/13 09:28:17.890,=C:\Users\Asus\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/13 09:31:29.747,D:\Delhpitestsave\Unit1.dfm=C:\Users\Asus\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/06/13 09:31:29.747,D:\Delhpitestsave\Unit1.pas=C:\Users\Asus\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/13 10:37:03.660,=C:\Users\Asus\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/13 10:37:55.026,D:\Delhpitestsave\SimpForm.dfm=C:\Users\Asus\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/06/13 10:37:55.026,D:\Delhpitestsave\SimpForm.pas=C:\Users\Asus\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/13 11:31:35.752,=C:\Users\Asus\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/06/13 12:01:42.208,D:\Delhpitestsave\Unit3.pas=C:\Users\Asus\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/06/13 12:01:42.208,D:\Delhpitestsave\Unit3.dfm=C:\Users\Asus\Documents\RAD Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2024/06/13 12:01:43.671,D:\Delhpitestsave\Project2.dproj=C:\Users\Asus\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
